@@ -6,8 +6,6 @@ http://120.87.19.109:80/PLTV/88888973/224/3221226219/100001000000000600000000013
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/翡翠台.png" group-title="常用",翡翠台
 http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/翡翠台.png" group-title="常用",翡翠台
-http://r.jdshipin.com/62WM7
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/翡翠台.png" group-title="常用",翡翠台
 https://cdn3.indevs.in/stream/tvb/fct/
 #EXTINF:-1 tvg-id="mytv/tvbplus" tvg-name="TVB Plus" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/TVB Plus.png" group-title="常用",TVB Plus
 http://103.172.187.30:12000/stream/mytv/tvbplus/master.m3u8
