@@ -193,7 +193,7 @@ http://103.172.187.30:12000/stream/mytv/zoomoo/master.m3u8
 http://103.172.187.30:12000/stream/mytv/kxi/master.m3u8
 #EXTINF:-1 tvg-id="mytv/lovenature4k" tvg-name="Love Nature" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/Love Nature.png" group-title="myTV",Love Nature
 http://103.172.187.30:12000/stream/mytv/lovenature4k/master.m3u8
-#EXTINF:-1 tvg-id="mytv/tv" tvg-name="红牛TV" group-title="myTV",红牛TV
+#EXTINF:-1 tvg-id="mytv/tv" tvg-logo="https://raw.githubusercontent.com/ConstanceJess/mytv-selftv/main/logos/RedBull.png" tvg-name="红牛TV" group-title="myTV",红牛TV
 http://103.172.187.30:12000/stream/mytv/tv/master.m3u8
 #EXTINF:-1 tvg-id="mytv/mytvsuper2" tvg-name="myTV SUPER直播足球2台" tvg-logo="https://raw.githubusercontent.com/ConstanceJess/mytv-selftv/main/logos/mytvsuper2.png" group-title="myTV",myTV SUPER直播足球2台
 http://103.172.187.30:12000/stream/mytv/mytvsuper2/master.m3u8
