@@ -143,33 +143,33 @@ https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w117
 https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
 #EXTINF:-1 tvg-name="Pet Club TV" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/Pet Club TV.png" group-title="港台频道",Pet Club TV
 https://petclub-samsungaus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="mytv/super-5" tvg-logo="https://cdn.jsdelivr.net/gh/ConstanceJess/mytv-selftv@main/logos/super-5.png" tvg-name="SUPER剧场" group-title="myTV",SUPER剧场
+#EXTINF:-1 tvg-id="mytv/super-5" tvg-logo="https://gitee.com/xiaojiesi/tvicon/raw/master/super-5.png" tvg-name="SUPER剧场" group-title="myTV",SUPER剧场
 http://103.172.187.30:12000/stream/mytv/super-5/master.m3u8
-#EXTINF:-1 tvg-id="mytv/super-4" tvg-logo="https://cdn.jsdelivr.net/gh/ConstanceJess/mytv-selftv@main/logos/super-4.png" tvg-name="SUPER煲剧" group-title="myTV",SUPER煲剧
+#EXTINF:-1 tvg-id="mytv/super-4" tvg-logo="https://gitee.com/xiaojiesi/tvicon/raw/master/super-4.png" tvg-name="SUPER煲剧" group-title="myTV",SUPER煲剧
 http://103.172.187.30:12000/stream/mytv/super-4/master.m3u8
-#EXTINF:-1 tvg-id="mytv/super" tvg-logo="https://cdn.jsdelivr.net/gh/ConstanceJess/mytv-selftv@main/logos/super.png" tvg-name="SUPER奖门人" group-title="myTV",SUPER奖门人
+#EXTINF:-1 tvg-id="mytv/super" tvg-logo="https://gitee.com/xiaojiesi/tvicon/raw/master/super.png" tvg-name="SUPER奖门人" group-title="myTV",SUPER奖门人
 http://103.172.187.30:12000/stream/mytv/super/master.m3u8
-#EXTINF:-1 tvg-id="mytv/super-6" tvg-logo="https://cdn.jsdelivr.net/gh/ConstanceJess/mytv-selftv@main/logos/super-6.png" tvg-name="SUPER话当年" group-title="myTV",SUPER话当年
+#EXTINF:-1 tvg-id="mytv/super-6" tvg-logo="https://gitee.com/xiaojiesi/tvicon/raw/master/super-6.png" tvg-name="SUPER话当年" group-title="myTV",SUPER话当年
 http://103.172.187.30:12000/stream/mytv/super-6/master.m3u8
-#EXTINF:-1 tvg-id="mytv/super-2" tvg-logo="https://cdn.jsdelivr.net/gh/ConstanceJess/mytv-selftv@main/logos/super-2.png" tvg-name="SUPER识叹" group-title="myTV",SUPER识叹
+#EXTINF:-1 tvg-id="mytv/super-2" tvg-logo="https://gitee.com/xiaojiesi/tvicon/raw/master/super-2.png" tvg-name="SUPER识叹" group-title="myTV",SUPER识叹
 http://103.172.187.30:12000/stream/mytv/super-2/master.m3u8
-#EXTINF:-1 tvg-id="mytv/super-1" tvg-logo="https://cdn.jsdelivr.net/gh/ConstanceJess/mytv-selftv@main/logos/super-1.png" tvg-name="SUPER识食" group-title="myTV",SUPER识食
+#EXTINF:-1 tvg-id="mytv/super-1" tvg-logo="https://gitee.com/xiaojiesi/tvicon/raw/master/super-1.png" tvg-name="SUPER识食" group-title="myTV",SUPER识食
 http://103.172.187.30:12000/stream/mytv/super-1/master.m3u8
-#EXTINF:-1 tvg-id="mytv/super-3" tvg-logo="https://cdn.jsdelivr.net/gh/ConstanceJess/mytv-selftv@main/logos/super-3.png" tvg-name="SUPER金曲" group-title="myTV",SUPER金曲
+#EXTINF:-1 tvg-id="mytv/super-3" tvg-logo="https://gitee.com/xiaojiesi/tvicon/raw/master/super-3.png" tvg-name="SUPER金曲" group-title="myTV",SUPER金曲
 http://103.172.187.30:12000/stream/mytv/super-3/master.m3u8
 #EXTINF:-1 tvg-id="mytv/mytvsuper18" tvg-name="myTV SUPER 18台" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/myTV SUPER 18台.png" group-title="myTV",myTV SUPER 18台
 http://103.172.187.30:12000/stream/mytv/mytvsuper18/master.m3u8
-#EXTINF:-1 tvg-id="mytv/supereyt" tvg-logo="https://cdn.jsdelivr.net/gh/ConstanceJess/mytv-selftv@main/logos/supereyt.png" tvg-name="SUPER EYT" group-title="myTV",SUPER EYT
+#EXTINF:-1 tvg-id="mytv/supereyt" tvg-logo="https://gitee.com/xiaojiesi/tvicon/raw/master/supereyt.png" tvg-name="SUPER EYT" group-title="myTV",SUPER EYT
 http://103.172.187.30:12000/stream/mytv/supereyt/master.m3u8
-#EXTINF:-1 tvg-id="mytv/supermusic" tvg-logo="https://cdn.jsdelivr.net/gh/ConstanceJess/mytv-selftv@main/logos/supermusic.png" tvg-name="SUPER Music" group-title="myTV",SUPER Music
+#EXTINF:-1 tvg-id="mytv/supermusic" tvg-logo="https://gitee.com/xiaojiesi/tvicon/raw/master/supermusic.png" tvg-name="SUPER Music" group-title="myTV",SUPER Music
 http://103.172.187.30:12000/stream/mytv/supermusic/master.m3u8
-#EXTINF:-1 tvg-id="mytv/supersports" tvg-logo="https://cdn.jsdelivr.net/gh/ConstanceJess/mytv-selftv@main/logos/supersports.png" tvg-name="SUPER Sports" group-title="myTV",SUPER Sports
+#EXTINF:-1 tvg-id="mytv/supersports" tvg-logo="https://gitee.com/xiaojiesi/tvicon/raw/master/supersports.png" tvg-name="SUPER Sports" group-title="myTV",SUPER Sports
 http://103.172.187.30:12000/stream/mytv/supersports/master.m3u8
 #EXTINF:-1 tvg-id="mytv/null-12" tvg-name="黄金翡翠台" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/黄金翡翠台.png" group-title="myTV",黄金翡翠台
 http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
 #EXTINF:-1 tvg-id="mytv/null-8" tvg-name="黄金华剧台" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/黄金华剧台.png" group-title="myTV",黄金华剧台
 http://103.172.187.30:12000/stream/mytv/null-8/master.m3u8
-#EXTINF:-1 tvg-id="mytv/tvb" tvg-logo="https://cdn.jsdelivr.net/gh/ConstanceJess/mytv-selftv@main/logos/tvb_cand-KID.png" tvg-name="TVB 儿童台" group-title="myTV",TVB 儿童台
+#EXTINF:-1 tvg-id="mytv/tvb" tvg-logo="https://gitee.com/xiaojiesi/tvicon/raw/master/tvb_cand-KID.png" tvg-name="TVB 儿童台" group-title="myTV",TVB 儿童台
 http://103.172.187.30:12000/stream/mytv/tvb/master.m3u8
 #EXTINF:-1 tvg-id="mytv/null-11" tvg-name="亚洲剧" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/亚洲剧.png" group-title="myTV",亚洲剧
 http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
@@ -191,23 +191,23 @@ http://103.172.187.30:12000/stream/mytv/thrill/master.m3u8
 http://103.172.187.30:12000/stream/mytv/tvnhk/master.m3u8
 #EXTINF:-1 tvg-id="mytv/zoomoo" tvg-name="ZooMoo" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/ZooMoo.png" group-title="myTV",ZooMoo
 http://103.172.187.30:12000/stream/mytv/zoomoo/master.m3u8
-#EXTINF:-1 tvg-id="mytv/kxi" tvg-logo="https://cdn.jsdelivr.net/gh/ConstanceJess/mytv-selftv@main/logos/kxi_cand-CKIX.png" tvg-name="KXI" group-title="myTV",KXI
+#EXTINF:-1 tvg-id="mytv/kxi" tvg-logo="https://gitee.com/xiaojiesi/tvicon/raw/master/kxi_cand-CKIX.png" tvg-name="KXI" group-title="myTV",KXI
 http://103.172.187.30:12000/stream/mytv/kxi/master.m3u8
 #EXTINF:-1 tvg-id="mytv/lovenature4k" tvg-name="Love Nature" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/Love Nature.png" group-title="myTV",Love Nature
 http://103.172.187.30:12000/stream/mytv/lovenature4k/master.m3u8
-#EXTINF:-1 tvg-id="mytv/tv" tvg-logo="https://cdn.jsdelivr.net/gh/ConstanceJess/mytv-selftv@main/logos/RedBull.png" tvg-name="红牛TV" group-title="myTV",红牛TV
+#EXTINF:-1 tvg-id="mytv/tv" tvg-logo="https://gitee.com/xiaojiesi/tvicon/raw/master/RedBull.png" tvg-name="红牛TV" group-title="myTV",红牛TV
 http://103.172.187.30:12000/stream/mytv/tv/master.m3u8
-#EXTINF:-1 tvg-id="mytv/mytvsuper2" tvg-name="myTV SUPER直播足球2台" tvg-logo="https://cdn.jsdelivr.net/gh/ConstanceJess/mytv-selftv@main/logos/mytvsuper2.png" group-title="myTV",myTV SUPER直播足球2台
+#EXTINF:-1 tvg-id="mytv/mytvsuper2" tvg-name="myTV SUPER直播足球2台" tvg-logo="https://gitee.com/xiaojiesi/tvicon/raw/master/mytvsuper2.png" group-title="myTV",myTV SUPER直播足球2台
 http://103.172.187.30:12000/stream/mytv/mytvsuper2/master.m3u8
-#EXTINF:-1 tvg-id="mytv/mytvsuper3" tvg-name="myTV SUPER直播足球3台" tvg-logo="https://cdn.jsdelivr.net/gh/ConstanceJess/mytv-selftv@main/logos/mytvsuper3.png" group-title="myTV",myTV SUPER直播足球3台
+#EXTINF:-1 tvg-id="mytv/mytvsuper3" tvg-name="myTV SUPER直播足球3台" tvg-logo="https://gitee.com/xiaojiesi/tvicon/raw/master/mytvsuper3.png" group-title="myTV",myTV SUPER直播足球3台
 http://103.172.187.30:12000/stream/mytv/mytvsuper3/master.m3u8
-#EXTINF:-1 tvg-id="mytv/mytvsuper4" tvg-name="myTV SUPER直播足球4台" tvg-logo="https://cdn.jsdelivr.net/gh/ConstanceJess/mytv-selftv@main/logos/mytvsuper4.png" group-title="myTV",myTV SUPER直播足球4台
+#EXTINF:-1 tvg-id="mytv/mytvsuper4" tvg-name="myTV SUPER直播足球4台" tvg-logo="https://gitee.com/xiaojiesi/tvicon/raw/master/mytvsuper4.png" group-title="myTV",myTV SUPER直播足球4台
 http://103.172.187.30:12000/stream/mytv/mytvsuper4/master.m3u8
-#EXTINF:-1 tvg-id="mytv/mytvsuper5" tvg-name="myTV SUPER直播足球5台" tvg-logo="https://cdn.jsdelivr.net/gh/ConstanceJess/mytv-selftv@main/logos/mytvsuper5.png" group-title="myTV",myTV SUPER直播足球5台
+#EXTINF:-1 tvg-id="mytv/mytvsuper5" tvg-name="myTV SUPER直播足球5台" tvg-logo="https://gitee.com/xiaojiesi/tvicon/raw/master/mytvsuper5.png" group-title="myTV",myTV SUPER直播足球5台
 http://103.172.187.30:12000/stream/mytv/mytvsuper5/master.m3u8
-#EXTINF:-1 tvg-id="mytv/mytvsuper6" tvg-name="myTV SUPER直播足球6台" tvg-logo="https://cdn.jsdelivr.net/gh/ConstanceJess/mytv-selftv@main/logos/mytvsuper6.png" group-title="myTV",myTV SUPER直播足球6台
+#EXTINF:-1 tvg-id="mytv/mytvsuper6" tvg-name="myTV SUPER直播足球6台" tvg-logo="https://gitee.com/xiaojiesi/tvicon/raw/master/mytvsuper6.png" group-title="myTV",myTV SUPER直播足球6台
 http://103.172.187.30:12000/stream/mytv/mytvsuper6/master.m3u8
-#EXTINF:-1 tvg-id="mytv/mytvsuper7" tvg-name="myTV SUPER直播足球7台" tvg-logo="https://cdn.jsdelivr.net/gh/ConstanceJess/mytv-selftv@main/logos/mytvsuper7.png" group-title="myTV",myTV SUPER直播足球7台
+#EXTINF:-1 tvg-id="mytv/mytvsuper7" tvg-name="myTV SUPER直播足球7台" tvg-logo="https://gitee.com/xiaojiesi/tvicon/raw/master/mytvsuper7.png" group-title="myTV",myTV SUPER直播足球7台
 http://103.172.187.30:12000/stream/mytv/mytvsuper7/master.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/翡翠台.png" group-title="测试",翡翠台
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -225,11 +225,11 @@ http://tvb.local/dash/B.mpd?q=1080
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://tvb.local/clearkey/B
 http://tvb.local/dash/B.mpd
-#EXTINF:-1 tvg-id="Super Free" tvg-name="Super Free" tvg-logo="https://cdn.jsdelivr.net/gh/ConstanceJess/mytv-selftv@main/logos/SuperFree.png" group-title="测试",Super Free
+#EXTINF:-1 tvg-id="Super Free" tvg-name="Super Free" tvg-logo="https://gitee.com/xiaojiesi/tvicon/raw/master/SuperFree.png" group-title="测试",Super Free
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://tvb.local/clearkey/CWIN
 http://tvb.local/dash/CWIN.mpd?q=1080
-#EXTINF:-1 tvg-id="Super Free" tvg-name="Super Free" tvg-logo="https://cdn.jsdelivr.net/gh/ConstanceJess/mytv-selftv@main/logos/SuperFree.png" group-title="测试",Super Free
+#EXTINF:-1 tvg-id="Super Free" tvg-name="Super Free" tvg-logo="https://gitee.com/xiaojiesi/tvicon/raw/master/SuperFree.png" group-title="测试",Super Free
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://tvb.local/clearkey/CWIN
 http://tvb.local/dash/CWIN.mpd
