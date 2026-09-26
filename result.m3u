@@ -157,14 +157,14 @@ http://103.172.187.30:12000/stream/mytv/super-2/master.m3u8
 http://103.172.187.30:12000/stream/mytv/super-1/master.m3u8
 #EXTINF:-1 tvg-id="mytv/super-3" tvg-logo="https://gitee.com/xiaojiesi/tvicon/raw/master/super-3.png" tvg-name="SUPER金曲" group-title="myTV",SUPER金曲
 http://103.172.187.30:12000/stream/mytv/super-3/master.m3u8
-#EXTINF:-1 tvg-id="mytv/mytvsuper18" tvg-name="myTV SUPER 18台" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/myTV SUPER 18台.png" group-title="myTV",myTV SUPER 18台
-http://103.172.187.30:12000/stream/mytv/mytvsuper18/master.m3u8
 #EXTINF:-1 tvg-id="mytv/supereyt" tvg-logo="https://gitee.com/xiaojiesi/tvicon/raw/master/supereyt.png" tvg-name="SUPER EYT" group-title="myTV",SUPER EYT
 http://103.172.187.30:12000/stream/mytv/supereyt/master.m3u8
 #EXTINF:-1 tvg-id="mytv/supermusic" tvg-logo="https://gitee.com/xiaojiesi/tvicon/raw/master/supermusic.png" tvg-name="SUPER Music" group-title="myTV",SUPER Music
 http://103.172.187.30:12000/stream/mytv/supermusic/master.m3u8
 #EXTINF:-1 tvg-id="mytv/supersports" tvg-logo="https://gitee.com/xiaojiesi/tvicon/raw/master/supersports.png" tvg-name="SUPER Sports" group-title="myTV",SUPER Sports
 http://103.172.187.30:12000/stream/mytv/supersports/master.m3u8
+#EXTINF:-1 tvg-id="mytv/mytvsuper18" tvg-name="myTV SUPER 18台" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/myTV SUPER 18台.png" group-title="myTV",myTV SUPER 18台
+http://103.172.187.30:12000/stream/mytv/mytvsuper18/master.m3u8
 #EXTINF:-1 tvg-id="mytv/null-12" tvg-name="黄金翡翠台" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/黄金翡翠台.png" group-title="myTV",黄金翡翠台
 http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
 #EXTINF:-1 tvg-id="mytv/null-8" tvg-name="黄金华剧台" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/黄金华剧台.png" group-title="myTV",黄金华剧台
